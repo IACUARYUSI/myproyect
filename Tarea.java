@@ -4,4 +4,8 @@ public class Tarea
 	private String actividad;
 	private boolean telefono;
 
+public class Tarea
+	{
+		//constructor
+	}
 }

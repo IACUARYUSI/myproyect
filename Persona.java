@@ -6,7 +6,7 @@ public class Persona
 
 	public Persona()
 	{
-
+		//costructor
 	}
 	public int getId()
 	{
