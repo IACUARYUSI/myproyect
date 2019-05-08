@@ -8,4 +8,13 @@ public class Tarea
 	{
 		//constructor
 	}
+	public int getId()
+	{
+			return this.id;
+	}
+
+	public void setID(int id)
+	{
+		this.id = id;
+	}
 }
